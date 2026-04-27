@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+🔗 [View Live Project](https://your-app-name.netlify.app/)
+
 # 🚀 Modern Counter App
 
 A simple and interactive counter application built using **HTML, CSS, and JavaScript**.
