@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-🔗 [View Live Project](https://your-app-name.netlify.app/)
+🔗 [View Live Project](https://modern-counter-app-js.netlify.app/)
 
 # 🚀 Modern Counter App
 
